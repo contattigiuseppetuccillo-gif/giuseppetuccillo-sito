@@ -1,0 +1,4 @@
+# Link corti per Netlify: nella bio si vede «giuseppetuccillo.it/ig», ma chi
+# clicca arriva con l'etichetta di provenienza, che finisce nell'email del contatto.
+# 302 e non 301: se un giorno l'etichetta cambia, i browser non ricordano quella vecchia.
+/ig  /?utm_source=instagram&utm_campaign=bio  302
